@@ -1,0 +1,3 @@
+# Ignore dataset files
+data/
+loan_data.csv
